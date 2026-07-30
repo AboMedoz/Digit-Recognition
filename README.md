@@ -1,6 +1,6 @@
-# MNIST Digit Recognition
+# Digit Recognition
 
-An interactive handwritten digit recognition web app built with **TensorFlow**, **OpenCV**, and **Streamlit**. Users can draw a digit on a canvas, and a Convolutional Neural Network (CNN) trained on the MNIST dataset predicts the digit in real time.
+An interactive handwritten digit recognition web app built with **TensorFlow**, **OpenCV**, and **Streamlit**. Users can draw a digit on a canvas, and a Convolutional Neural Network (CNN) trained on the MNIST dataset predicts the digit in real time, made for the sole Purpose of Training.
 
 ## Demo
 
@@ -24,7 +24,7 @@ An interactive handwritten digit recognition web app built with **TensorFlow**, 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/mnist-digit-recognition.git
+git clone https://github.com/AboMedoz/mnist-digit-recognition.git
 cd mnist-digit-recognition
 ```
 
