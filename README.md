@@ -24,8 +24,8 @@ An interactive handwritten digit recognition web app built with **TensorFlow**, 
 Clone the repository:
 
 ```bash
-git clone https://github.com/AboMedoz/mnist-digit-recognition.git
-cd mnist-digit-recognition
+git clone https://github.com/AboMedoz/Digit-Recognition.git
+cd Digit-Recognition
 ```
 
 Install the dependencies:
